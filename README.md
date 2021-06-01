@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darek
-- 👀 I’m interested in Data Science, Analysis, Machine learning
+- 👀 I’m interested in Data Science, Data Analysis, Machine learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on projects that requires data analysis and machine learning
 - 📫 How to reach me: darekbonifatiuk@gmail.com
